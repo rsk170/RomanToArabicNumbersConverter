@@ -1,0 +1,13 @@
+C:\Users\rkisleva\source\repos\RomanToArabic\RomanToArabic\bin\Debug\netcoreapp3.1\RomanToArabic.exe
+C:\Users\rkisleva\source\repos\RomanToArabic\RomanToArabic\bin\Debug\netcoreapp3.1\RomanToArabic.deps.json
+C:\Users\rkisleva\source\repos\RomanToArabic\RomanToArabic\bin\Debug\netcoreapp3.1\RomanToArabic.runtimeconfig.json
+C:\Users\rkisleva\source\repos\RomanToArabic\RomanToArabic\bin\Debug\netcoreapp3.1\RomanToArabic.runtimeconfig.dev.json
+C:\Users\rkisleva\source\repos\RomanToArabic\RomanToArabic\bin\Debug\netcoreapp3.1\RomanToArabic.dll
+C:\Users\rkisleva\source\repos\RomanToArabic\RomanToArabic\bin\Debug\netcoreapp3.1\RomanToArabic.pdb
+C:\Users\rkisleva\source\repos\RomanToArabic\RomanToArabic\obj\Debug\netcoreapp3.1\RomanToArabic.csprojAssemblyReference.cache
+C:\Users\rkisleva\source\repos\RomanToArabic\RomanToArabic\obj\Debug\netcoreapp3.1\RomanToArabic.AssemblyInfoInputs.cache
+C:\Users\rkisleva\source\repos\RomanToArabic\RomanToArabic\obj\Debug\netcoreapp3.1\RomanToArabic.AssemblyInfo.cs
+C:\Users\rkisleva\source\repos\RomanToArabic\RomanToArabic\obj\Debug\netcoreapp3.1\RomanToArabic.csproj.CoreCompileInputs.cache
+C:\Users\rkisleva\source\repos\RomanToArabic\RomanToArabic\obj\Debug\netcoreapp3.1\RomanToArabic.dll
+C:\Users\rkisleva\source\repos\RomanToArabic\RomanToArabic\obj\Debug\netcoreapp3.1\RomanToArabic.pdb
+C:\Users\rkisleva\source\repos\RomanToArabic\RomanToArabic\obj\Debug\netcoreapp3.1\RomanToArabic.genruntimeconfig.cache
